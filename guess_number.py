@@ -1,4 +1,3 @@
-# из модуля random.
 from random import randint
 
 # Получаем случайное число в диапазоне от 1 до 100.
